@@ -1,7 +1,7 @@
 # ajinkyadg.github.io
 
-Sentinel & Defender Detection Health Check
-
+**Sentinel & Defender Detection Health Check
+**
 Reduce SOC noise. Improve detection quality. Strengthen MITRE coverage.
 
 Many SOC teams struggle with:
