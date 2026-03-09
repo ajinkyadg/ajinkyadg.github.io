@@ -1,4 +1,3 @@
-# ajinkyadg.github.io
 
 **Sentinel & Defender Detection Health Check
 **
