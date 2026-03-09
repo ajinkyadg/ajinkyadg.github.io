@@ -1,3 +1,7 @@
+Created by a Senior SOC Analyst with experience in
+Microsoft Sentinel, Defender for Endpoint,
+threat hunting and detection engineering.
+
 # Sentinel & Defender Detection Health Check
 
 Reduce SOC alert noise and improve detection quality.
